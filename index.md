@@ -4,11 +4,6 @@
 - Useful and applicable material is learned
 - Fun class
 
-```java
-for(int i = 0; i <= 10; i++){
-    System.out.println("CS 193 is great!");
-}
-```
 
 
 ## Welcome to GitHub Pages
